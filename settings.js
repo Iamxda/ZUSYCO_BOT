@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94701628336",
-  SUDO_NUMBERS : "94766632281,94701628336",
-  OWNER_NAME: "Mʀ Rᴀᴍɪᴛʜᴜ",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "2347082102521 , 2349125932419",
+  SUDO_NUMBERS : "2347082102521,2348022159244",
+  OWNER_NAME: "𝐌𝐀𝐋𝐈𝐊🤴🏽",
+  BOT_NAME : "𝐌𝐀𝐋𝐈𝐊-𝐁𝐎𝐓🤴🏽",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -31,12 +31,12 @@ module.exports = {
         GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
-  TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "private",
-  WORK_MODE : "onlyinbox",
+  TIME_ZONE :  "Africa/Lagos",
+  WORK_TYPE : "public",
+  WORK_MODE : "allchats",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '*々 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀꜱᴛᴇᴀᴍ*',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '*々 ᴘᴏᴡᴇʀᴇᴅ ʙʏ Ꮇᴀliᴋ Ᏼᴏᴛ 🤴🏽*',
+  STICKER_PACK : '[𝐌𝐀𝐋𝐈𝐊-𝐁𝐎𝐓🤴🏽]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -44,18 +44,18 @@ module.exports = {
   ANTI_LINK_KICK : false,
   MAX_SIZE : 500,
   MOROCCO_NUMBERS : {
-        BLOCK : false,
+        BLOCK : true,
         NOT_WORKING : false,
   },
   READ : {
      ALL_MESSAGES : false,
-     ONLY_COMMANDS : true,
-     STATUS : true,
+     ONLY_COMMANDS : false,
+     STATUS : false,
   },
-  BOT_OFFLINE : true,
+  BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
-  OWNER_REACT : '🤵‍♂️',
+  AUTO_REACT : true,
+  OWNER_REACT : '🤴🏽',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
@@ -72,12 +72,12 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : false,
+  LOAD_ANIMATION : true,
  
 };
