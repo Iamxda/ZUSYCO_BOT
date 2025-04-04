@@ -32,7 +32,7 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Africa/Lagos",
-  WORK_TYPE : "public",
+  WORK_TYPE : "private",
   WORK_MODE : "allchats",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '*々 ᴘᴏᴡᴇʀᴇᴅ ʙʏ Ꮇᴀliᴋ Ᏼᴏᴛ 🤴🏽*',
